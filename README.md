@@ -6,6 +6,9 @@ Intro: In this demo, you will analyze 500 images of damaged engine ball joint st
 
 Download Kaggle files  
 
+
+This is proof I can delete AND add text
+
 https://www.kaggle.com/yinchuwang/surfacedefectdetectionofautomotiveengineparts 
 
 Label Files 
