@@ -8,6 +8,9 @@ Change in Branch
 
 Download Kaggle files  
 
+
+This is proof I can delete AND add text
+
 https://www.kaggle.com/yinchuwang/surfacedefectdetectionofautomotiveengineparts 
 
 Label Files 
