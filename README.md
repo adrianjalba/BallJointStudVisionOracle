@@ -4,6 +4,8 @@ This is for Data Labelling Version 1
 
 Intro: In this demo, you will analyze 500 images of damaged engine ball joint studs and determine various defects in each part using Oracle AI Vision. Then using Object Storage, Autonomous DataWarehouse, and Oracle Analytics Cloud, you will be able to bring the results of a manufacturing batch to analysis. 
 
+Change in Branch 
+
 Download Kaggle files  
 
 
